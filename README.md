@@ -1,6 +1,6 @@
 # CodeJudge – Online Coding Platform
 
-A full-stack coding platform inspired by LeetCode for solving algorithmic problems online.
+A full-stack coding platform inspired by LeetCode for solving algorithmic problems online, built from scratch using React, Node.js, MongoDB, and Judge0 API
 
 ## Tech Stack
 - Frontend: React.js, HTML, CSS, JavaScript
